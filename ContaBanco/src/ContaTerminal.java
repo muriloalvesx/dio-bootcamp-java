@@ -15,6 +15,7 @@ public class ContaTerminal {
         System.out.println("Por favor, digite o número da Agência !");
     //Obter pelo scanner os valores digitados no terminal.
         String Agencia = in.next();
+    //nextLine para consumir a quebra de linha pendente anterior
         in.nextLine();
         //Exibir a mensagem de solicitação do Numero da conta para o nosso usuário.
         System.out.println("Por favor, digite o nome do Cliente !");
@@ -23,6 +24,7 @@ public class ContaTerminal {
     //Exibir a mensagem de solicitação do Numero da conta para o nosso usuário.
         System.out.println("Por favor, digite o saldo da conta !");
     //Obter pelo scanner os valores digitados no terminal.
+    //useLocale para receber valores decimais
         in.useLocale(Locale.US);
         double Saldo = in.nextDouble();
         
