@@ -24,7 +24,11 @@ Conteúdos desde os primeiros passos com Java partindo da sintaxe básica até a
     <img align="center" alt="MySQL"src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white"/>
     <img align="center" alt="MySQL"src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
 </div><br/>
+
+### Acesse em:
+
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.dio.me) https://www.dio.me
  
 <div style="display: flex"><br/>
-<img align="center" alt="homepage1"src="https://github.com/muriloalvesx/dio-bootcamp-java/assets/153781890/3bab3ea5-d4b9-45e7-93f7-c3d2e7d7c896" width="300px"/>
+<img align="center" alt="homepage1"src="https://github.com/muriloalvesx/dio-bootcamp-java/assets/153781890/3bab3ea5-d4b9-45e7-93f7-c3d2e7d7c896" width="200px"/>
 </div><br/>
