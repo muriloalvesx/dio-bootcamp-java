@@ -2,6 +2,10 @@
 
 Conteúdos desde os primeiros passos com Java partindo da sintaxe básica até a implementação de uma API utilizando Spring para se tornar um profissional atrativo no mercado.
 
+### Desafios
+
+Repositório reservado para a resolução dos desafios propostos no BootCamp.
+
 ### Grade
 
 • Princípios de Desenvolvimento de Software Colaborativo;<br>
